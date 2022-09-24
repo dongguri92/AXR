@@ -1,0 +1,9 @@
+Inference
+
+labels = ['normal', 'small_bowel_ileus']
+
+1. small_bowel_ileus
+    --> [8.3279e-15, 1.0000e+00]
+
+2. normal
+    --> [0.9985, 0.0019]
